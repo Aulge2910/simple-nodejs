@@ -44,8 +44,18 @@ Users can update their profile information such as name, email, and password.
    ```
 
 ## Screenshot
+Register account
+![Node.js Application Screenshot](images/register.png)
 
-![Node.js Application Screenshot](images/register.png)(images/login.png)(images/getuserinfo.png)(images/updateinfo.png)
+Login
+![Node.js Application Screenshot](images/login.png)
+
+Get Info
+![Node.js Application Screenshot](images/getuserinfo.png)
+
+Update Info
+![Node.js Application Screenshot](images/updateinfo.png)
+
 
 ## Contributing
 
